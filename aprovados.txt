@@ -1,0 +1,2 @@
+Carlos,7.666666666666667,Aprovado
+Joao,7.166666666666666,Aprovado após exame
